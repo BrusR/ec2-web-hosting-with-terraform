@@ -1,0 +1,5 @@
+instance_name = ""
+ami_id = "ami-0c7217cdde317cfec"
+profile = ""
+key_name = ""
+region = "us-east-1"
